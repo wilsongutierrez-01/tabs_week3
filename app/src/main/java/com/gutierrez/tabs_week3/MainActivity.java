@@ -68,8 +68,8 @@ public class MainActivity extends AppCompatActivity {
     private void linkingComps (){
         tabLayout = findViewById(R.id.tabLayout);
         viewPager = findViewById(R.id.pageView);
-        ContactsTab = findViewById(R.id.tbContacts);
+      /*  ContactsTab = findViewById(R.id.tbContacts);
         EmailTab = findViewById(R.id.tbEmail);
-        MessagesTab = findViewById(R.id.tbMessages);
+        MessagesTab = findViewById(R.id.tbMessages);*/
     }
 }
